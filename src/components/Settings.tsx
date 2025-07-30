@@ -6,10 +6,10 @@ export default function Settings() {
   const [showPassword, setShowPassword] = useState(false);
   const [settings, setSettings] = useState({
     profile: {
-      name: 'Sarah Johnson',
-      email: 'sarah.johnson@email.com',
-      phone: '+1 (555) 123-4567',
-      organization: 'TechStart Inc.',
+      name: 'eric Kimani',
+      email: 'erickimani@email.com',
+      phone: '+254789322',
+      organization: 'Have Org.',
       role: 'Founder & CEO'
     },
     notifications: {
